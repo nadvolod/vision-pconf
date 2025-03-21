@@ -1,0 +1,4 @@
+[build]
+  # Run build and then export your Next.js app to static files.
+  command = "npm run build && npm run export"
+  publish = "out"
