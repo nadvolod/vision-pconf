@@ -2,6 +2,8 @@
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
 
+Try the Vision Board [here](https://vision-board-nikk.netlify.app/dashboard)
+
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-typescript)
